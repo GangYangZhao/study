@@ -25,5 +25,9 @@
   },
   "bugs": {
     "url": "https://github.com/GangYangZhao/study/issues"
+  },
+  "dependencies": {
+    "@devexpress/dx-react-core": "^2.7.6",
+    "@devexpress/dx-react-grid": "^2.7.6"
   }
 }
