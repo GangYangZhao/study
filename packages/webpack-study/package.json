@@ -1,0 +1,29 @@
+{
+  "name": "webpack-study",
+  "version": "0.0.0",
+  "description": "study webpack",
+  "author": "GangYangZhao <zhaogangyang@ones.ai>",
+  "homepage": "https://github.com/GangYangZhao/study#readme",
+  "license": "ISC",
+  "main": "lib/webpack-study.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm2.myones.net/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GangYangZhao/study.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/GangYangZhao/study/issues"
+  }
+}
