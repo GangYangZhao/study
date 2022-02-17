@@ -1,3 +1,5 @@
+import './a.js';
+import './style.css';
 /**
  * test
  */
